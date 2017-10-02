@@ -8,3 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Entrada.unity
     guid: 4d137894f9b8dc148b39724569d371b9
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5e6f9c90d5216a94bbaa4ee3873a8b0e
+  - enabled: 1
+    path: Assets/Scenes/ARVuforia.unity
+    guid: 00000000000000000000000000000000
