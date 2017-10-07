@@ -132,6 +132,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\KudanAR\Editor\KudanTrackerEditor.cs" />
+    <Compile Include="Assets\KudanAR\Editor\MarkerTransformDriverEditor.cs" />
+    <Compile Include="Assets\KudanAR\Editor\TrackableDataEditor.cs" />
+    <Compile Include="Assets\KudanAR\Editor\TrackingMethodMarkerEditor.cs" />
     <Compile Include="Assets\Vuforia\Editor\Scripts\ComponentFactoryStarter\ComponentFactoryStarter.cs" />
     <Compile Include="Assets\Vuforia\Editor\Scripts\ExtensionImport.cs" />
     <Compile Include="Assets\Vuforia\Editor\Scripts\PostProcessBuildPlayer.cs" />
@@ -139,6 +143,10 @@
     <Compile Include="Assets\Vuforia\Editor\Scripts\VuforiaConfigurationEditor.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\KudanAR\Materials\Background.shader" />
+    <None Include="Assets\KudanAR\Materials\DebugFlat.shader" />
+    <None Include="Assets\KudanAR\Materials\ShadowCatcher.shader" />
+    <None Include="Assets\KudanAR\Resources\YpCbCr.shader" />
     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
     <None Include="Assets\Plugins\iOS\Vuforia.UnityExtensions.iOS.XML" />
     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />

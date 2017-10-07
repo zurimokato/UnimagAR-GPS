@@ -22,9 +22,4 @@ public class Controlador : MonoBehaviour {
     {
         SceneManager.LoadScene(menu);
     }
-
-    public void LoadVuforiaAR(string vuforia)
-    {
-        SceneManager.LoadScene(vuforia);
-    }
 }
